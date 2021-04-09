@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -44,6 +45,7 @@ social-network-links:
   linkedin: morvans
   twitter: morvan_simon
   ORCID: 0000-0001-5037-5378
+  google-scholar: t9nrcCMAAAAJ
 # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
@@ -61,7 +63,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  google-scholar: your google scholar
+
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
