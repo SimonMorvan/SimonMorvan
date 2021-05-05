@@ -25,7 +25,7 @@ My professional goal is to contribute to the development of innovative and susta
 ***
 ### Awards
 
-* Departemental Student Excellency Award - 2018 
+* Departmental Student Excellency Award - 2018 
 
 ***
 ### Services
