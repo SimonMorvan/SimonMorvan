@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Simon's website
+title: Home
 
 # Your name to show in the footer
 author: Simon Morvan
@@ -15,11 +15,24 @@ author: Simon Morvan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Research:
-  Author's home: "https://deanattali.com"
+    - Publications: "publications" 
+    - Communications: "communications"
+  
+  Media: 
+    - DIRE: "https://www.ficsum.com/dire-archives/automne-2021/biologie-le-microbiote-a-la-rescousse-du-bleuetier-sauvage/"
+    - Microbiologist: "https://issuu.com/societyforappliedmicrobiology/docs/sfammi_3/34"
+    - UdeM Nouvelles: "https://nouvelles.umontreal.ca/article/2020/09/02/des-champignons-et-des-bacteries-allies-dans-la-production-du-bleuet-sauvage/"
+  
+  Popular science communications : 
+    - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
+    - Illustre recherche : "illrec"
+    - 
+    
+  Resources:
+    - Bioinformatic tutorial: "https://alexiscarter.github.io/metab/"
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
@@ -74,7 +87,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
