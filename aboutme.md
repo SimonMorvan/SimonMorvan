@@ -31,9 +31,9 @@ My professional goal is to contribute to the development of innovative and susta
 ### Services
 
 * Student representative of the graduate biology student association, Université de Montréal (2020-2021)
-* Student global representative of the Quebec Center for Biodiversity Science (QCBS) (2019-2021)
-* Organizer of the QCBS annual symposium (first online edition) (2020)
+* Student global representative of the Quebec Center for Biodiversity Science (QCBS) (2019-Now)
+* Organizer of the QCBS annual symposium (first and second online edition) (2020-2021)
 * QCBS R workshop presenter (2019-2021)
-* Organizer of the BIOinformatics for MEtabarcoding (BIOME) workshop (2018)
+* Organizer of the BIOinformatics for MEtabarcoding [BIOME](https://alexiscarter.github.io/BIOME) workshop (2018)
 * QCBS R symposium presenter (2018)
 * Student local representative of the QCBS (2018-2019)
