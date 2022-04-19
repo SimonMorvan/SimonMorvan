@@ -15,19 +15,17 @@ author: Simon Morvan
 
 navbar-links:
   About Me: "aboutme"
+  
   Research:
     - Publications: "publications" 
     - Communications: "communications"
   
-  Media: 
+  Popular science communications / Media : 
+    - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
+    - Illustre recherche : "illrec"
     - DIRE: "https://www.ficsum.com/dire-archives/automne-2021/biologie-le-microbiote-a-la-rescousse-du-bleuetier-sauvage/"
     - Microbiologist: "https://issuu.com/societyforappliedmicrobiology/docs/sfammi_3/34"
     - UdeM Nouvelles: "https://nouvelles.umontreal.ca/article/2020/09/02/des-champignons-et-des-bacteries-allies-dans-la-production-du-bleuet-sauvage/"
-  
-  Popular science communications : 
-    - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
-    - Illustre recherche : "illrec"
-    - 
     
   Resources:
     - Bioinformatic tutorial: "https://alexiscarter.github.io/metab/"
