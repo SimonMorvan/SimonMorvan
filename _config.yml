@@ -29,7 +29,7 @@ navbar-links:
     
   Resources:
     - Bioinformatic tutorial: "https://alexiscarter.github.io/metab/"
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - R scripts : "https://github.com/SimonMorvan/thermal_BB_microbiome"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
@@ -109,16 +109,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#483D8B" # DarkSlateBlue
+navbar-text-col: "#D3D5D4" # Light gray
+navbar-border-col: "#DDDDDD" # white
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+text-col: "#D3D5D4" #Light gray
+link-col: "#2D848A" # Metallic seewed
+hover-col: "#0085A1" # Blue Munsell 
+footer-col: "#483D8B" # DarkSlateBlue
+footer-text-col: "#63C132" # Kelly Green 
+footer-link-col: "#63C132" # Kelly Green
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
