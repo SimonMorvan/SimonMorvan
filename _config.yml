@@ -112,8 +112,8 @@ feed_show_tags: true
 navbar-col: "#483D8B" # DarkSlateBlue
 navbar-text-col: "#D3D5D4" # Light gray
 navbar-border-col: "#DDDDDD" # white
-page-col: "#FFFFFF"
-text-col: "#D3D5D4" #Light gray
+page-col: "#5B4DB0"
+text-col: "#d6dbb9" #Light gray
 link-col: "#2D848A" # Metallic seewed
 hover-col: "#0085A1" # Blue Munsell 
 footer-col: "#D3D5D4" # Light gray
