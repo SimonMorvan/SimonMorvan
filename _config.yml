@@ -116,9 +116,9 @@ page-col: "#FFFFFF"
 text-col: "#D3D5D4" #Light gray
 link-col: "#2D848A" # Metallic seewed
 hover-col: "#0085A1" # Blue Munsell 
-footer-col: "#483D8B" # DarkSlateBlue
-footer-text-col: "#63C132" # Kelly Green 
-footer-link-col: "#63C132" # Kelly Green
+footer-col: "#D3D5D4" # Light gray
+footer-text-col: "#483D8B" # DarkSlateBlue
+footer-link-col: "#483D8B" # DarkSlateBlue
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
