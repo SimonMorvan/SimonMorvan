@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: Work in progress
 ---
 
 ***
