@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   
   Research:
-    - <font size="0.6rem">Publications</font>: "publications" 
-    - <font size=""0.6rem">Communications</font>: "communications"
+    - <font size="0.5rem">Publications</font>: "publications" 
+    - <font size=""0.5rem">Communications</font>: "communications"
   
   Popular science / Media : 
     - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
@@ -28,8 +28,8 @@ navbar-links:
     - UdeM Nouvelles: "https://nouvelles.umontreal.ca/article/2020/09/02/des-champignons-et-des-bacteries-allies-dans-la-production-du-bleuet-sauvage/"
     
   Resources:
-    - <font size=""0.6rem">Bioinformatic tutorial</font>: "https://alexiscarter.github.io/metab/"
-    - <font size=""0.6rem">R scripts</font>: "https://github.com/SimonMorvan/thermal_BB_microbiome"
+    - <font size=""0.5rem">Bioinformatic tutorial</font>: "https://alexiscarter.github.io/metab/"
+    - <font size=""0.5rem">R scripts</font>: "https://github.com/SimonMorvan/"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
