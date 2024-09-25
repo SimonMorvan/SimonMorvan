@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   
   Research:
-    - Publications: "publications" 
-    - Communications: "communications"
+    -  <font size="-1">Publications</font>: "publications" 
+    - <font size="-1">Communications</font>: "communications"
   
   Popular science / Media : 
     - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
@@ -28,8 +28,8 @@ navbar-links:
     - UdeM Nouvelles: "https://nouvelles.umontreal.ca/article/2020/09/02/des-champignons-et-des-bacteries-allies-dans-la-production-du-bleuet-sauvage/"
     
   Resources:
-    - Bioinformatic tutorial: "https://alexiscarter.github.io/metab/"
-    - R scripts : "https://github.com/SimonMorvan/thermal_BB_microbiome"
+    - <font size="-1">Bioinformatic tutorial</font>: "https://alexiscarter.github.io/metab/"
+    - <font size="-1">R scripts</font>: "https://github.com/SimonMorvan/thermal_BB_microbiome"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
@@ -51,10 +51,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "simon.morvan@umontreal.ca"
+  email: "simon.morvan@inrs.ca"
   github: SimonMorvan
   linkedin: morvans
-  twitter: morvan_simon
   ORCID: 0000-0001-5037-5378
   google-scholar: https://scholar.google.com/citations?user=t9nrcCMAAAAJ
 # patreon: DeanAttali
@@ -84,7 +83,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   vk: false
