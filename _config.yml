@@ -108,16 +108,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#483D8B" # DarkSlateBlue
-navbar-text-col: "#D3D5D4" # Light gray
-navbar-border-col: "#DDDDDD" # white
-page-col: "#5B4DB0"
-text-col: "#d6dbb9" #Light gray
-link-col: "#2D848A" # Metallic seewed
-hover-col: "#0085A1" # Blue Munsell 
-footer-col: "#D3D5D4" # Light gray
-footer-text-col: "#483D8B" # DarkSlateBlue
-footer-link-col: "#483D8B" # DarkSlateBlue
+navbar-col: "#ADBBDA" # Powder Blue
+navbar-text-col: "#36456D" # Marian Blue
+navbar-border-col: "#3D52A0" # white
+page-col: "#3D52A0" #YnMn Blue
+text-col: "#DCDCDC" #Platinum
+link-col: "#7091E6" # Cornflower Blue
+hover-col: "#0085A1" # 
+footer-col: "#D3D5D4" # 
+footer-text-col: "#483D8B" # 
+footer-link-col: "#483D8B" # 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
