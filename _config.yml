@@ -18,7 +18,7 @@ navbar-links:
   
   Research:
     - <font size="0.5rem">Publications</font>: "publications" 
-    - <font size="0.4rem">Communications</font>: "communications"
+    - <font size="0.3rem">Communications</font>: "communications"
   
   Popular science / Media : 
     - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
@@ -29,7 +29,7 @@ navbar-links:
     
   Resources:
     - <font size="0.5rem">Bioinformatic tutorial</font>: "https://alexiscarter.github.io/metab/"
-    - <font size="0.5rem">R scripts</font>: "https://github.com/SimonMorvan/"
+    - <font size="0.5rem">GitHub</font>: "https://github.com/SimonMorvan/"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
