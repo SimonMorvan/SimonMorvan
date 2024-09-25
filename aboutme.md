@@ -1,15 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Work in progress
 ---
 
 ***
 ### Background
-I was born in France where I grew up untill the age of 5. We then moved to Copenhagen, Denmark for three year then to Toronto, Canada for five years before returning to France. After graduating from high-school in 2011, I enrolled at the Université de Technologie de Compiègne in France, an institution mixing France Engineering Schools and University models. In 2016, I obtained a degree in biological engineering (specialization in Design and Innovation of Bioproducts). Having done two 6-months intership's at two different labs, I wanted to continue working in research. In September 2017, I started a research project at the University of Montreal.
-The goal of my Ph.D., co-supervised by Mohamed Hijri and Maxime Paré, is to study the bacterial and fungal communities of the wild blueberry root environment.
+After graduating from high-school in 2011, I enrolled at the Université de Technologie de Compiègne in France, an institution mixing France Engineering Schools and University models. In 2016, I obtained a degree in biological engineering (specialization in Design and Innovation of Bioproducts). Having done two 6-months intership's at two different labs, I wanted to continue working in research. In September 2017, I started a research project at the University of Montreal.
+The goal of my Ph.D., co-supervised by Pr. Mohamed Hijri and Pr. Maxime Paré, was to study the bacterial and fungal communities of the wild blueberry root environment. I graduated in February 2023 and started a post-doc in September 2023 at INRS Centre Armand Frappier Santé Biotechnology under the supervision of Pr. Étienne Yergeau. My current project is on the bioremediation of naphthenic acids present in oil sand processed water, focusing on the microbial communities and their functions. 
 
-My professional goal is to contribute to the development of innovative and sustainable methods in the fields of agricultural biotechnology and biocontrols.
+My professional goal is to contribute to the development of innovative and sustainable methods in the fields of agricultural and environmental biotechnology.
 
 ***
 ### Education
@@ -24,6 +23,8 @@ My professional goal is to contribute to the development of innovative and susta
 
 ***
 ### Awards
+
+* J-A DeSève Excellence Scholarship - 2022
 
 * Departmental Student Excellency Award - 2018 
 
