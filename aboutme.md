@@ -13,9 +13,7 @@ My professional goal is to contribute to the development of innovative and susta
 ***
 ### Education
 
-* 2018 - Now : PhD Student at Université de Montréal (Canada), Département des Sciences biologiques, Institut de Recherche en Biologie Végétale.
-
-* 2017 - 2018 :  Msc Student at Université de Montréal (Canada), Département des Sciences biologiques, Institut de Recherche en Biologie Végétale.
+* 2017 - 2023 : PhD Student at Université de Montréal (Canada), Département des Sciences biologiques, Institut de Recherche en Biologie Végétale.
 
 * 2015-2016 : Semester abroad at Universidad de Santiago de Chile, Chile. 
 
