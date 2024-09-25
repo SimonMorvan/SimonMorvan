@@ -17,19 +17,19 @@ navbar-links:
   About Me: "aboutme"
   
   Research:
-    -  <font size="-1">Publications</font>: "publications" 
-    - <font size="-1">Communications</font>: "communications"
+    - <font size="0.6rem">Publications</font>: "publications" 
+    - <font size=""0.6rem">Communications</font>: "communications"
   
   Popular science / Media : 
     - Ma Thèse en 180 secondes: "https://www.youtube.com/watch?v=WKe6KjYtE8M&t=898s"
-    - Illustre recherche : "illrec"
+    - Illustre recherche : "https://www.faecum.qc.ca/ressources/documentation/autres/l-illustre-recherche-2021-2022-simon-morvan"
     - DIRE: "https://www.ficsum.com/dire-archives/automne-2021/biologie-le-microbiote-a-la-rescousse-du-bleuetier-sauvage/"
     - Microbiologist: "https://issuu.com/societyforappliedmicrobiology/docs/sfammi_3/34"
     - UdeM Nouvelles: "https://nouvelles.umontreal.ca/article/2020/09/02/des-champignons-et-des-bacteries-allies-dans-la-production-du-bleuet-sauvage/"
     
   Resources:
-    - <font size="-1">Bioinformatic tutorial</font>: "https://alexiscarter.github.io/metab/"
-    - <font size="-1">R scripts</font>: "https://github.com/SimonMorvan/thermal_BB_microbiome"
+    - <font size=""0.6rem">Bioinformatic tutorial</font>: "https://alexiscarter.github.io/metab/"
+    - <font size=""0.6rem">R scripts</font>: "https://github.com/SimonMorvan/thermal_BB_microbiome"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
