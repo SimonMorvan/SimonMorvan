@@ -9,7 +9,7 @@ title: Publications
 
 * Trepanier, K. E., Balaberda, A-L., Vander Meulen, I. J., Ahad, J. M. E., Correa-García, S., <b>Morvan, S.</b>, Atugala, D., Bergeron, M-J., Gieg, L., Headley, J. V., Yergeau, E., Martineau, C., & Degenhardt D. (2024) Attenuation of Naphthenic Acids in Mesocosm Wetlands with Scirpus microcarpus, Triglochin maritima and Associated Microbial Communities. (Submitted to _Ecological Engineering_ on September 16 2024)
 
-### High phosphate concentration effec on soil microbial communities
+### High phosphate concentration effect on soil microbial communities
 
 * Ducousso-Détrez, A., <b>Morvan, S.</b>, Fontaine, J., Hijri, M., & Lounès-Hadj, A. (2024) How do high phosphate concentrations affect soil microbial communities after a century of ecosystem self-reclamation? _Environmental Microbiology Report_ (in press).
 
