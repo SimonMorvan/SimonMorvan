@@ -17,7 +17,8 @@ subtitle: Work in progress
 ### Use of municipal biosolids in agriculture
 
 * Blakney, A. J.<sup> 1 </sup>, <b>Morvan, S.</b><sup> 1 </sup>, Lucotte, M., Moingt, M., Charbonneau, A., Bipfubusa, M., Gonzalez E., & Pitre, F. E. (2024). Site properties, environmental factors, and crop identify influence soil bacterial communities more than municipal biosolid application. Science of the Total Environment, 926, 171854.
-<sub> 1: Authors contributed equally to the manuscript.</sub>
+<sub>
+1: Authors contributed equally to the manuscript.</sub>
 
 * Charbonneau, A., Lucotte, M., Moingt, M., Blakney, A. J., <b>Morvan, S.</b>, Bipfubusa, M., & Pitre, F. E. (2024). Fertilisation of agricultural soils with municipal biosolids: Glyphosate and aminomethylphosphonic acid inputs to Québec field crop soils. _Science of The Total Environment_, 
 
