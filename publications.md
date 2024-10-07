@@ -7,7 +7,7 @@ title: Publications
 
 ### Bioremediation of naphthenic acids in oil sands processed water 
 
-* Trepanier, K. E., Balaberda, A-L., Vander Meulen, I. J., Ahad, J. M. E., Correa-García, S., <b>Morvan, S.</b>, Atugala, D., Bergeron, M-J., Gieg, L., Headley, J. V., Yergeau, E., Martineau, C., & Degenhardt D. (2024) Attenuation of Naphthenic Acids in Mesocosm Wetlands with Scirpus microcarpus, Triglochin maritima and Associated Microbial Communities. (Submitted to _Ecological Engineering_ on September 16 2024)
+* Trepanier, K. E., Balaberda, A-L., Vander Meulen, I. J., Ahad, J. M. E., Correa-García, S., <b>Morvan, S.</b>, Atugala, D., Bergeron, M-J., Gieg, L., Headley, J. V., Yergeau, E., Martineau, C., & Degenhardt D. (2024) Attenuation of Naphthenic Acids in Mesocosm Wetlands with Scirpus microcarpus, Triglochin maritima and Associated Microbial Communities. (Submitted to _Water Environment Research_ on September 24 2024) [DOI](http://dx.doi.org/10.2139/ssrn.4960290)
 
 ### High phosphate concentration effect on soil microbial communities
 
@@ -15,14 +15,14 @@ title: Publications
 
 ### Use of municipal biosolids in agriculture
 
-* Blakney, A. J.<sup> 1 </sup>, <b>Morvan, S.</b><sup> 1 </sup>, Lucotte, M., Moingt, M., Charbonneau, A., Bipfubusa, M., Gonzalez E., & Pitre, F. E. (2024). Site properties, environmental factors, and crop identify influence soil bacterial communities more than municipal biosolid application. Science of the Total Environment, 926, 171854.
+* Blakney, A. J.<sup> 1 </sup>, <b>Morvan, S.</b><sup> 1 </sup>, Lucotte, M., Moingt, M., Charbonneau, A., Bipfubusa, M., Gonzalez E., & Pitre, F. E. (2024). Site properties, environmental factors, and crop identify influence soil bacterial communities more than municipal biosolid application. Science of the Total Environment, 926, 171854. [DOI](https://doi.org/10.1016/j.scitotenv.2024.171854)
 <sub> <br>1: Authors contributed equally to the manuscript.</sub>
 
-* Charbonneau, A., Lucotte, M., Moingt, M., Blakney, A. J., <b>Morvan, S.</b>, Bipfubusa, M., & Pitre, F. E. (2024). Fertilisation of agricultural soils with municipal biosolids: Glyphosate and aminomethylphosphonic acid inputs to Québec field crop soils. _Science of The Total Environment_, 
+* Charbonneau, A., Lucotte, M., Moingt, M., Blakney, A. J., <b>Morvan, S.</b>, Bipfubusa, M., & Pitre, F. E. (2024). Fertilisation of agricultural soils with municipal biosolids: Glyphosate and aminomethylphosphonic acid inputs to Québec field crop soils. _Science of The Total Environment_, 922, 171290. [DOI](https://doi.org/10.1016/j.scitotenv.2024.171290)
 
 ### Wild blueberry and its microbiota
 
-* <b>Morvan, S.</b>, Paré, M. C., Lafond, J., & Hijri, M. (2024). How does fertilization impact the wild blueberry microbiome? (Submited to _Environmental Microbiology Report_ on July 16  2024)
+* <b>Morvan, S.</b>, Paré, M. C., Lafond, J., & Hijri, M. (2024). How does fertilization impact the wild blueberry microbiome? Submited to _Environmental Microbiology Report_ on July 16 2024. [DOI](https://doi.org/10.1101/2023.07.24.550391) 
 
 * <b>Morvan, S.</b>, Paré, M. C., Schmitt, A., Lafond, J., & Hijri, M. (2022). Limited effect of thermal pruning on wild blueberry crop and its root-associated microbiota.  _Frontiers in Plant Science_, 13, 954935. [DOI](https://doi.org/10.3389/fpls.2022.954935)
 
